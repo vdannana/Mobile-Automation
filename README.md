@@ -13,4 +13,4 @@ This application automate tasks in Android mobile.
 2. Extract the zip file to c drive.
 3. After extraction right click 'This PC' or 'My Computer' and click properties.
 
-<img src="Images/1.png">
+&nbsp;&nbsp;&nbsp;<img src="Images/1.png" height="273" width="196">
